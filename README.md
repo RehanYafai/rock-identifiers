@@ -1,4 +1,4 @@
-# rock-identifiers
+# Rock-identifiers
 
 In this project
 
