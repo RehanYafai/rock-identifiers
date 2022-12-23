@@ -8,6 +8,8 @@ In this project
 
 -> Then Analysis the data
 
+-> Then Draw some insights 
+
 -> Then split the data into test and train part
 
 -> then train the Logistic Regression model
